@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+bin/com/test/thoughful/PackageClassifierTest$Package.class
+bin/com/test/thoughful/PackageClassifierTest.class
+bin/module-info.class
+src/module-info.java
